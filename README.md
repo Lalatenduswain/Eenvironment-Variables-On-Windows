@@ -88,4 +88,4 @@ Feel free to explore and experiment with environment variables to enhance your W
 
 For any questions, feedback, or suggestions, please feel free to reach out. Happy configuring!
 
-**Author:** [Your Name](https://github.com/Lalatenduswain)
+**Author:** [Lalatendu](https://github.com/Lalatenduswain)
